@@ -1,0 +1,11 @@
+list fuctions
+------------
+length
+reverse
+count
+clear
+append
+extend
+pop
+sort
+remove
